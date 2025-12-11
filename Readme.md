@@ -152,14 +152,3 @@ Keyboard-friendly focus states
 
 High-contrast text
 
-📄 License
-
-This project is open-source and free for:
-
-Personal portfolios
-
-Commercial use
-
-Client projects
-
-No attribution required — just build and create!
